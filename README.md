@@ -59,29 +59,29 @@ Stores:
    
     II. Redirects to dashboard
 
-4. 🏠 Dashboard Features:
+3. 🏠 Dashboard Features:
 
-  I. 📊 Personalized Dashboard:
+    I. 📊 Personalized Dashboard:
   
-      1.Welcome student by name
+        1.Welcome student by name
       
-      2.Total books available
+        2.Total books available
       
-      3.Personal issued books count
+        3.Personal issued books count
       
-      4.Secure logout
+        4.Secure logout
       
-  II. 📚 Book Management:
+    II. 📚 Book Management:
   
-     1. Add Books
+       1. Add Books
      
-     2. Book Name
+       2. Book Name
      
-     3. Author
+       3. Author
      
-     4. Category
+       4. Category
      
-     5. Quantity
+       5. Quantity
 
     
 4.📖 Issue Books:Issue books to logged-in student only
