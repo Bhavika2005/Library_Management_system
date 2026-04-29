@@ -56,9 +56,10 @@ Stores:
 2. 🔐 Login:Only registered students can log in
 
     I. Username + password verification
+   
     II. Redirects to dashboard
 
-3. 🏠 Dashboard Features:
+4. 🏠 Dashboard Features:
 
   I. 📊 Personalized Dashboard:
   
@@ -110,26 +111,21 @@ Frontend:
 Here are some screenshots of the Library Management system :
 
 ### Registration Page
-![Register_page](file:///C:/Users/bhavi/OneDrive/Desktop/librarysystem/register.html)
+![Register_page](Register_page.png)
 
 ### Login page
-![Login Page](file:///C:/Users/bhavi/OneDrive/Desktop/librarysystem/login.html)
+![Login Page](Login_page.png)
 
 ### Dashboard
-![Dashboard Page](C:/Users/bhavi/OneDrive/Desktop/librarysystem/dashboard.html)
+![Dashboard](dashboard.png)
 
 ### Add_Books Page
-![Add_books](file:///C:/Users/bhavi/OneDrive/Desktop/librarysystem/add_book.html)
+![Add_books_page](Add_Books_page.png)
 
 ### Issue_Book Page
-![Issue Book](file:///C:/Users/bhavi/OneDrive/Desktop/librarysystem/issue_book.html)
+![Issue books_page](Issue_book_page.png)
 
 ### View_Books Page
-![View books](file:///C:/Users/bhavi/OneDrive/Desktop/librarysystem/view_book.html)
+![View Books_page](view_page.png)
 
 
-
-
-
-
-Script
